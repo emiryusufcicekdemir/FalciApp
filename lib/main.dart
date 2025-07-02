@@ -1,5 +1,4 @@
 import 'dart:math';
-
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
@@ -44,7 +43,6 @@ class _MyHomePageState extends State<MyHomePage> {
     'TAVSİYE: Bugün sadece işine odaklan, dikkatini dağıtacak her türlü nesne ve sosyal medyadan uzaklaş',
     'TAVSİYE: Bugün tek başına biraz yürüyüş yap',
   ];
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
