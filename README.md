@@ -25,7 +25,6 @@ Fal küresi görselini assets/ klasörüne koyduğunuzdan ve pubspec.yaml dosyan
 pubspec.yaml dosyasına şu şekilde tanımlanmalı:
 flutter:
   assets:
-  
 - assets/falci.png
  # Özellikler
  
