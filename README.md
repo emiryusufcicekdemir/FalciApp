@@ -6,9 +6,9 @@
 	•	Asset yönetimi (Görsel dosyalar)
 	•	Rastgele veri seçimi (dart:math)
 Fal küresi görselini assets/ klasörüne koyduğunuzdan ve pubspec.yaml dosyanızda tanımladığınızdan emin olun.
- # Başlarken
+ # Ilk adım
  	 
-   Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz
+   Projeyi çalıştırmak için aşağıdaki adımları terminalde uygulayabilirsiniz
 
   • git clone https://github.com/kullaniciadi/falciapp.git
 
