@@ -12,13 +12,12 @@ Fal küresi görselini assets/ klasörüne koyduğunuzdan ve pubspec.yaml dosyan
 
 
  # Başlarken
-
-  Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
-
-• git clone https://github.com/kullaniciadi/falciapp.git
-• cd falciapp
-• flutter pub get
-• flutter run
+ 	 
+   Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz
+   git clone https://github.com/kullaniciadi/falciapp.git
+   cd falciapp
+   flutter pub get
+   flutter run
 
 
 # Assets
